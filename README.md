@@ -130,11 +130,11 @@ Additionally, here are a couple reasons not to host your server at home.
 * [NFOservers](https://nfoservers.com) - [Valve games lag troubleshooting guide](https://forums.nfoservers.com/viewtopic.php?f=25&t=3930) 
 * [Valve](https://www.valvesoftware.com/en/) - [Source Multiplayer Networking](https://developer.valvesoftware.com/wiki/Source_Multiplayer_Networking#Basic_networking)
 * [Source Dedicated Server Rate Calculator 2015](https://ambaca.github.io/rate-calculator-2015/)
-* [TF2 Net Graph](https://developer.valvesoftware.com/wiki/TF2_Network_Graph)
+* [Valve](https://www.valvesoftware.com/en/) - [TF2 Net Graph](https://developer.valvesoftware.com/wiki/TF2_Network_Graph)
 
 https://forum.moddingcommunity.com/t/how-to-download-run-steamcmd/190
 
 ## Conclusion
 That concludes this guide/knowledgebase topic. By now, you should have a better understanding on what hardware and network you require when running a Source engine server.
 
-If you have any questions or have feedback, please reply to this topic!
+If you have any questions or have feedback, please reply to [this](https://forum.moddingcommunity.com/t/hardware-network-requirements-for-source-engine-servers/197) topic!
