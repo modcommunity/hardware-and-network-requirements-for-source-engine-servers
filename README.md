@@ -139,6 +139,6 @@ https://blog.moddingcommunity.com/how-to-download-run-steamcmd/
 ## Conclusion
 That concludes this guide/knowledgebase topic. By now, you should have a better understanding on what hardware and network you require when running a Source engine server.
 
-If you have any questions or feedback regarding this guide, please reply to its forum topic [here](https://forum.moddingcommunity.com/t/hardware-network-requirements-for-source-engine-servers/197)! This guide will be worked and improved on over time.
+If you have any questions or feedback regarding this guide, please reply to its forum topic [here](https://forum.moddingcommunity.com/t/hardware-network-requirements-for-source-engine-servers/508)! This guide will be worked and improved on over time.
 
 Join our [Discord server](https://discord.moddingcommunity.com)!
