@@ -1,12 +1,6 @@
-<div align="center">
-
-![Banner](https://github.com/modcommunity/hardware-and-network-requirements-for-source-engine-servers/raw/main/images/banner.png)
-
-</div>
-
 The [Source engine](https://developer.valvesoftware.com/wiki/Source) is a 3D video game engine developed by [Valve](https://developer.valvesoftware.com/wiki/Valve). The Source engine is well-known for its advancements in physics, AI, and graphics which made the games realistic for its time, while being scalable on older, less powerful hardware. Source engine **servers** are hosted game services that allow players to connect and play together in the server's world. Servers in the Source engine can be customized with **mods** that results in a unique and often times fun gameplay experience for all players connected to the server.
 
-[**View Guide On TMC (Recommended Due To Better Formatting)**](https://forum.moddingcommunity.com/t/hardware-network-requirements-for-source-engine-servers/197)
+[**View Guide On TMC (Recommended Due To Better Formatting)**](https://blog.moddingcommunity.com/hardware-network-requirements-for-source-engine-servers/)
 
 Games that run on the Source engine include [Team Fortress 2](https://store.steampowered.com/app/440/Team_Fortress_2/), [Counter-Strike: Source](https://store.steampowered.com/app/240/CounterStrike_Source/), [Garry's Mod](https://store.steampowered.com/app/4000/Garrys_Mod/), and many others!
 
@@ -140,7 +134,7 @@ Additionally, here are a couple reasons not to host your server at home.
 * [Source Dedicated Server Rate Calculator 2015](https://ambaca.github.io/rate-calculator-2015/)
 * [Valve](https://www.valvesoftware.com/en/) - [TF2 Net Graph](https://developer.valvesoftware.com/wiki/TF2_Network_Graph)
 
-https://forum.moddingcommunity.com/t/how-to-download-run-steamcmd/190
+https://blog.moddingcommunity.com/how-to-download-run-steamcmd/
 
 ## Conclusion
 That concludes this guide/knowledgebase topic. By now, you should have a better understanding on what hardware and network you require when running a Source engine server.
